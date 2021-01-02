@@ -17,6 +17,7 @@
     <br />
     <a href="https://alpha-src.github.io"><strong>Alpha Src Coding »</strong></a>
     <br />
+	<strong>Stay at Home!</strong>
     <br />  
     <br />  
 	<strong>Thanks for coming!</strong>
